@@ -1,0 +1,30 @@
+div {
+    height: 50px;
+    width: 120px;
+    border-color: #bcd2ee;
+    background-color: #bcd2ee;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: Black;
+    font-family: Arial;
+}
+
+span {
+    color: Red;
+}
+
+/* #header {
+	height: 50px;
+	background-color: #f38630;
+	margin-bottom: 10px;
+}
+
+#footer {
+	height: 50px;
+	background-color: #69d2e7;
+} */
